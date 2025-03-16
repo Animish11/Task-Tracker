@@ -72,9 +72,5 @@ Each task in `tasks.json` includes:
 
 ---
 
-**Final Code:**  
-[Use the finalized code from the previous response, with added comments for clarity.]
-
----
 
 This ReadMe and code provide a complete, user-friendly CLI task tracker that meets all requirements!
